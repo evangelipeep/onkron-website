@@ -279,7 +279,7 @@ h2 {
   }
   .block__title {
     position: absolute;
-    top: -4%;
+    top: -2%;
     left: 50%;
   }
   .full-width-section__2 {
@@ -294,10 +294,6 @@ h2 {
     text-align: center;
     font-size: 1.2rem;
     width: 90%;
-  }
-
-  .block {
-    display: inline-block;
   }
 
   .rounded-image {
