@@ -149,6 +149,20 @@ h2 {
 }
 
 @media only screen and (max-width: 767px) {
+  .full-width-section__2,
+  .full-width-section {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  .block__text {
+    position: absolute;
+    top: 40%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 0, 0);
+    font-size: 1.7rem;
+    text-align: center;
+  }
   .three-columns-section {
     flex-direction: column;
     align-items: center;
